@@ -16,14 +16,12 @@ Also frequently supporting ops with live incidents in production.
 Working on the new cloud-based [Assima Systems Training Platform](https://assimasolutions.com/systems-training-platform/) with [React JS](https://reactjs.org/) 
 ([NextJS](https://nextjs.org/), [CRA](https://create-react-app.dev/) and vanilla apps) to deliver user friendly and scalable tools to training authors around the world.
 
-Implemented a modern stack with [React hooks](https://reactjs.org/docs/hooks-intro.html), [Context](https://reactjs.org/docs/context.html), [Reducer](https://reactjs.org/docs/hooks-reference.html#usereducer) and [React Query](https://react-query.tanstack.com/). 
-Tested the apps with [Jest](https://jestjs.io/) and [React Testing Library](https://testing-library.com/) and encouraged good practices for accessibility.
-Internationalized the UI with [react-i18next](https://react.i18next.com/).
+Implemented a modern stack with [React hooks](https://reactjs.org/docs/hooks-intro.html), [Context](https://reactjs.org/docs/context.html), [Reducer](https://reactjs.org/docs/hooks-reference.html#usereducer) and [React Query](https://react-query.tanstack.com/). Tested the apps with [Jest](https://jestjs.io/) and [React Testing Library](https://testing-library.com/) and encouraged good practices for accessibility. Internationalized the UI with [react-i18next](https://react.i18next.com/).
 Selected state of the art UI libraries such as [Material UI](https://mui.com/) and [ReactFlow](https://reactflow.dev/) with [elkjs](https://github.com/kieler/elkjs).
+Containerized the apps with multi-staged [Docker](https://www.docker.com/) files running on Node Alpine or [NGinx](https://www.nginx.com/) images.
 
-Also implemented micro-services to generate documentation using [Aspose](https://products.aspose.com/words/) and [.Net 5](https://dotnet.microsoft.com/) 
-and to take screenshots using [Pupeteer](https://developers.google.com/web/tools/puppeteer/) and [NodeJS](https://nodejs.org/) 
-running in [Docker](https://www.docker.com/) containers.
+Also implemented back-end micro-services to generate documentation with [Aspose](https://products.aspose.com/words/) and [.Net 5](https://dotnet.microsoft.com/) 
+and to take screenshots with [Pupeteer](https://developers.google.com/web/tools/puppeteer/) and [NodeJS](https://nodejs.org/).
 
 #### 2019 - 2021: Fullstack developer
 
@@ -52,3 +50,17 @@ Created a full-featured control library integrated with the [.NET framework](htt
 
 Worked on the UI of the Assima Performance Suite and Assima Training Suite desktop applications 
 and on the generation of contents (e-Notes, Word documents, lessons). Used C, C++, Win32, COM, VBA and JavaScript.
+
+## Education
+
+#### 2007: Master's degree in Databases and Artificial Intelligence at Université de Bourgogne (France)
+
+Studied all fields of Information Technology, including programming, multimedia, UNIX systems, user experience, project management, databases and artificial intelligence.
+
+Graduated with 1st class honours ("mention Très Bien").
+
+#### 2006: Bachelor of Science in Informatics at University of Northumbria (United Kingdom)
+
+Studied Java, robotics and relational databases. 
+
+Graduated with 1st class degree.
