@@ -71,7 +71,7 @@ Father of 2, I live in Orleans in the centre of France
 
 I regularly travel to sunny and friendly Philippines
 
-I'm passionate about technology. I fell into web development around 20 years ago when I was in high-school and computers had 56K modems. I also loved programming on my Ti-83 calcultator then.
+I'm passionate about technology. I fell into web development around 20 years ago when I was in high-school and computers had 56K modems. I also loved programming on my Ti-83 calculator then.
 
 I don't have many hobbies, but I follow Formula 1 and my football team Auxerre. I like going for a run too.
 
