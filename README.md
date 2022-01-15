@@ -21,7 +21,7 @@ Selected state of the art UI libraries such as [Material UI](https://mui.com/) a
 Containerized the apps with multi-staged [Docker](https://www.docker.com/) files running on Node Alpine or [NGinx](https://www.nginx.com/) images.
 
 Also implemented back-end micro-services to generate documentation with [Aspose](https://products.aspose.com/words/) and [.Net 5](https://dotnet.microsoft.com/) 
-and to take screenshots with [Pupeteer](https://developers.google.com/web/tools/puppeteer/) and [NodeJS](https://nodejs.org/).
+and to take screenshots with [Puppeteer](https://developers.google.com/web/tools/puppeteer/) and [NodeJS](https://nodejs.org/).
 
 #### 2019 - 2021: Fullstack developer
 
