@@ -1,0 +1,119 @@
+:root {
+  --dark-color: black;
+  --contrast-color: white;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+}
+a {
+  color: inherit;
+}
+
+header {
+  background: var(--dark-color);
+  color: var(--contrast-color);
+  padding: 1rem;
+}
+header h1 {
+  margin: 0;
+  font-weight: 300;
+  font-size: 1.75rem;
+}
+header h2 {
+  margin: 0;
+  font-size: 1.125rem;
+  font-weight: normal;
+}
+header cite {
+  display: block;
+  margin: 1rem 0;
+}
+header address {
+  margin: -1rem -1rem;
+  padding: 1rem;
+  font-style: normal;
+  opacity: 0.67;
+}
+header address a {
+  text-decoration: none;
+}
+header address svg {
+  width: 1rem;
+  height: 1rem;
+  fill: currentColor;
+  vertical-align: -.0625rem;
+}
+header address svg ~ svg {
+  margin-left: .5rem;
+}
+header #profile {
+  float: right;
+  width: 8rem;
+  height: 8rem;
+  margin: 0 2rem;
+  border-radius: 4rem;
+  border: .125rem solid white;
+  box-sizing: border-box;
+}
+main {
+  padding: 0 1rem 1rem;
+  display: flex;
+  flex-direction: row;
+}
+main .column + .column {
+  min-width: 25%;
+  width: 25%;
+  margin-left: 2rem;
+}
+main h1 {
+  margin-bottom: 1rem;
+  font-weight: 300;
+  font-size: 1.75rem;
+}
+main h2 {
+  font-size: 1rem;
+  font-weight: normal;
+  text-transform: uppercase;
+}
+main article time {
+  font-weight: 300;
+}
+main article p,
+main article address {
+  padding-left: 4ch;
+}
+main article address {
+  margin: -.75rem 0;
+}
+main ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+main li {
+  margin-bottom: .75rem;
+  display: block;
+}
+main #soft-skills li {
+  display: inline-block;
+  padding: .25rem;
+  margin-bottom: 1px;
+  background: var(--dark-color);
+  color: var(--contrast-color);
+  border-radius: .5rem;
+}
+main #tech-skills li {
+  display: inline-block;
+  padding: .25rem;
+  margin: 1px;
+  border: 1px solid var(--dark-color);
+  border-radius: .5rem;
+}
+main #interests li {
+  display: inline-block;
+  margin: 0 .5rem .5rem 0;  
+}
