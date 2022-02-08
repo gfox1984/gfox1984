@@ -65,6 +65,10 @@ Studied Java, robotics and relational databases.
 
 Graduated with 1st class degree.
 
+## Contributions
+
+Creator of [granular-hooks](https://github.com/gfox1984/granular-hooks), the React hooks you know, with added granularity. 
+
 ## About me
 
 Father of 2, I live in Orleans in the centre of France
@@ -79,3 +83,4 @@ I don't have many hobbies, but I follow Formula 1 and my football team Auxerre. 
 
 - [LinkedIn profile](https://www.linkedin.com/in/guillaume-renard-b89254190/)
 - [Stackoverflow profile](https://stackoverflow.com/users/1010492/gyum-fox)
+- [Medium profile](https://medium.com/@gfox1984)
