@@ -1,6 +1,6 @@
 # Guillaume Renard
 
-I thrive at solving complex problems and delivering projects that meet expectations.
+I love solving complex problems and delivering projects that meet expectations.
 
 ## Experience
 
@@ -11,7 +11,7 @@ Responsible for front-end architecture and leading the way in adopting the highe
 
 Also frequently supporting ops with live incidents in production.
 
-#### 2021 to present: Front-end lead developer
+#### 2021 to 2022: Front-end lead developer
 
 Working on the new cloud-based [Assima Systems Training Platform](https://assimasolutions.com/systems-training-platform/) with [React JS](https://reactjs.org/) 
 ([NextJS](https://nextjs.org/), [CRA](https://create-react-app.dev/) and vanilla apps) to deliver user friendly and scalable tools to training authors around the world.
