@@ -4,12 +4,12 @@ I love solving complex problems and delivering projects that meet expectations.
 
 ## Experience
 
-Software engineer at [Assima](https://www.assima.net) since 2007 (worked at London headquarters until 2014, now working remotely for Paris office),
+Software engineer at [Assima](https://www.assima.net) since 2007 until 2022 (worked at London headquarters until 2014, then worked remotely for Paris office),
 the worldwide leader in productivity software for training, support, and translation of enterprise software applications.
 
 Responsible for front-end architecture and leading the way in adopting the highest standards of development processes at Assima.
 
-Also frequently supporting ops with live incidents in production.
+Also frequently supported ops with live incidents in production.
 
 #### 2021 to 2022: Front-end lead developer
 
