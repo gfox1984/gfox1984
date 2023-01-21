@@ -16,9 +16,6 @@ Also frequently supporting ops with live incidents in production.
 
 Working on the broadcast of videos with [Vue.js](https://vuejs.org/) and [GCP](https://cloud.google.com/gcp).
 
-Working on the new cloud-based [Assima Systems Training Platform](https://assimasolutions.com/systems-training-platform/) with [React JS](https://reactjs.org/)
-([NextJS](https://nextjs.org/), [CRA](https://create-react-app.dev/) and vanilla apps) to deliver user friendly and scalable tools to training authors around the world.
-
 #### 2021 to Oct. 2022: Frontend lead developer at [Assima](https://www.assima.net)
 
 Working on the new cloud-based [Assima Systems Training Platform](https://assimasolutions.com/systems-training-platform/) with [React JS](https://reactjs.org/)
