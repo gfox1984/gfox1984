@@ -8,7 +8,7 @@ Also frequently supporting ops with live incidents in production.
 
 ## Experience
 
-#### March 2022 to Present: Senior frontend developer at [Altus Group](https://www.altusgroup.com/)
+#### March 2023 to Present: Senior frontend developer at [Altus Group](https://www.altusgroup.com/)
 
 Building a micro-frontend application for the new Altus platform with React.js and AWS.
 
