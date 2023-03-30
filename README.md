@@ -1,24 +1,26 @@
 # Guillaume Renard
 
-I love solving complex problems and delivering projects that meet expectations.
-
-## Experience
-
-Software engineer at [Assima](https://www.assima.net) from 2007 to 2022 (worked at London headquarters until 2014, then worked remotely for Paris office),
-the worldwide leader in productivity software for training, support, and translation of enterprise software applications. Now working at [PlayPlay](https://www.playplay.com), the
-video creation platform.
+Trusted developer with 15 years of experience building SaaS products at scale.
 
 Enjoying frontend architecture and leading the way in adopting the highest standards of development processes.
 
 Also frequently supporting ops with live incidents in production.
 
-#### Nov. 2022 to Present: Senior frontend developer at [PlayPlay](https://www.playplay.com)
+## Experience
 
-Working on the broadcast of videos with [Vue.js](https://vuejs.org/) and [GCP](https://cloud.google.com/gcp).
+#### March 2022 to Present: Senior frontend developer at [Altus Group](https://www.altusgroup.com/)
+
+Building a micro-frontend application for the new Altus platform with React.js and AWS.
+
+#### Nov. 2022 to March 2023: Senior frontend developer at [PlayPlay](https://www.playplay.com)
+
+Worked as a frontend engineer on the broadcast of videos with [Vue.js](https://vuejs.org/) at [PlayPlay](https://www.playplay.com) (embeds, GIFs, video player), the video creation platform.
+
+Coached junior developers and contributed to the migration to Vite and to the adoption of unit testing as per frontend community work.
 
 #### 2021 to Oct. 2022: Frontend lead developer at [Assima](https://www.assima.net)
 
-Working on the new cloud-based [Assima Systems Training Platform](https://assimasolutions.com/systems-training-platform/) with [React JS](https://reactjs.org/)
+Worked on the new cloud-based [Assima Systems Training Platform](https://assimasolutions.com/systems-training-platform/) with [React JS](https://reactjs.org/)
 ([NextJS](https://nextjs.org/), [CRA](https://create-react-app.dev/) and vanilla apps) to deliver user friendly and scalable tools to training authors around the world.
 
 Implemented a modern stack with [React hooks](https://reactjs.org/docs/hooks-intro.html), [Context](https://reactjs.org/docs/context.html), [Reducer](https://reactjs.org/docs/hooks-reference.html#usereducer) and [React Query](https://react-query.tanstack.com/). Tested the apps with [Jest](https://jestjs.io/) and [React Testing Library](https://testing-library.com/) and encouraged good practices for accessibility. Internationalized the UI with [react-i18next](https://react.i18next.com/).
